@@ -15,7 +15,7 @@
 # Tampilan Tester SpeedTest Fast.com
 ![be](https://raw.githubusercontent.com/boychongzen18/PsiphonPro-Scripts3/master/speed.jpg)
 
-# Link Apk SandroProxy : https://apkpure.com/id/sandroproxy/org.sandroproxy
+# Link Apk qpython3 For Android : https://apkpure.com/id/qpython3-python3-on-android/com.hipipal.qpy3
 
 # Link Apk Psiphon Pro All Version : https://apkpure.com/id/psiphon-pro-the-internet-freedom-vpn/com.psiphon3.subscription
 
