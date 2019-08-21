@@ -14,6 +14,7 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/PsiphonPro-Scripts3/master/termux1.jpg)
 # Tampilan Tester SpeedTest Fast.com
 ![be](https://raw.githubusercontent.com/boychongzen18/PsiphonPro-Scripts3/master/speed.jpg)
+# Link Apk Termux For Android : https://apkpure.com/id/termux/com.termux
 
 # Link Apk qpython3 For Android : https://apkpure.com/id/qpython3-python3-on-android/com.hipipal.qpy3
 
