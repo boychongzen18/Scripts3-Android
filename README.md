@@ -2,7 +2,7 @@
 
 # Author : Boychongzen aka Xroot
 
-# Popon All Version Termux & Qpython3 Working
+# Popon All Version , Termux & Qpython3 Working
 
 # Operator XL Axiata
 
