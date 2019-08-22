@@ -9,9 +9,8 @@
 # Tampilan XL Paket Bonus-SignUp 2.5GB
 ![be](https://raw.githubusercontent.com/boychongzen18/PsiphonPro-Scripts3/master/kipli.jpg)
 # Tampilan Termux 
-![be](https://raw.githubusercontent.com/boychongzen18/PsiphonPro-Scripts3/master/hfl.jpg)
-# Tampilan Termux Connecting IP Target & Open Port
-![be](https://raw.githubusercontent.com/boychongzen18/PsiphonPro-Scripts3/master/termux1.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/PsiphonPro-Scripts3/master/tremos.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/PsiphonPro-Scripts3/master/tremos1.jpg)
 # Tampilan Tester SpeedTest Fast.com
 ![be](https://raw.githubusercontent.com/boychongzen18/PsiphonPro-Scripts3/master/speed.jpg)
 # Link Apk Termux For Android : https://apkpure.com/id/termux/com.termux
