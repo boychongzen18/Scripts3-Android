@@ -6,7 +6,7 @@
 
 # Support Games Online & VC
 
-# Operator XL Axiata
+# Operator XL Axiata & Telkomyet
 
 # Tampilan XL Paket Bonus-SignUp 2.5GB
 ![be](https://raw.githubusercontent.com/boychongzen18/PsiphonPro-Scripts3/master/kipli.jpg)
