@@ -10,7 +10,6 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts3-Android/master/kiplix0.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts3-Android/master/kiplix.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts3-Android/master/kiplix1.jpg)
-
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts3-Android/master/popon0.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts3-Android/master/yt1.jpg)
 
